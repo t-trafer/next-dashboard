@@ -1,0 +1,1098 @@
+[
+  [
+    {
+      "name": "FCP",
+      "value": 727.2999999523163,
+      "rating": "good",
+      "delta": 727.2999999523163,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 727.2999999523163,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717236499515-9398266511310",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "TTFB",
+      "value": 601.9000000953674,
+      "rating": "good",
+      "delta": 601.9000000953674,
+      "entries": [
+        {
+          "name": "http://localhost:3000/women/linen-sleeveless-dress?color=sand",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 923.5,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 3.200000047683716,
+          "domainLookupStart": 3.200000047683716,
+          "domainLookupEnd": 3.200000047683716,
+          "connectStart": 3.200000047683716,
+          "secureConnectionStart": 0,
+          "connectEnd": 3.200000047683716,
+          "requestStart": 4.1000001430511475,
+          "responseStart": 601.9000000953674,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 720.2999999523163,
+          "transferSize": 649786,
+          "encodedBodySize": 649486,
+          "decodedBodySize": 8141281,
+          "responseStatus": 200,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 896.7000000476837,
+          "domContentLoadedEventStart": 896.7000000476837,
+          "domContentLoadedEventEnd": 896.9000000953674,
+          "domComplete": 923.1000001430511,
+          "loadEventStart": 923.5,
+          "loadEventEnd": 923.5,
+          "type": "navigate",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717236499515-6915288420541",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "LCP",
+      "value": 669.9000000953674,
+      "rating": "good",
+      "delta": 669.9000000953674,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 669.9000000953674,
+          "duration": 0,
+          "size": 166866,
+          "renderTime": 0,
+          "loadTime": 669.9000000953674,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/7xvPLGJC1PT8GVLSuXeQZl/de90c8749fb0fcfbb2e6d29dc1efbecd/W-DRS-31-SND_1030_EDITED.jpg?w=1600&q=50&h=2000&fm=webp"
+        }
+      ],
+      "id": "v3-1717236499515-5484639530946",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "FID",
+      "value": 1.6000001430511475,
+      "rating": "good",
+      "delta": 1.6000001430511475,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 2426.7999999523163,
+          "duration": 0,
+          "processingStart": 2428.4000000953674,
+          "processingEnd": 2428.7000000476837,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236499515-5570177764374",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "CLS",
+      "value": 0.003007596372369606,
+      "rating": "good",
+      "delta": 0.003007596372369606,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 1314.7000000476837,
+          "duration": 0,
+          "value": 0.002141526249133652,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1036,
+                "width": 615,
+                "height": 90,
+                "top": 1036,
+                "right": 1888,
+                "bottom": 1126,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1095,
+                "width": 615,
+                "height": 90,
+                "top": 1095,
+                "right": 1888,
+                "bottom": 1185,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1126,
+                "width": 615,
+                "height": 32,
+                "top": 1126,
+                "right": 1888,
+                "bottom": 1158,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1185,
+                "width": 615,
+                "height": 33,
+                "top": 1185,
+                "right": 1888,
+                "bottom": 1218,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1175,
+                "width": 498,
+                "height": 77,
+                "top": 1175,
+                "right": 1830,
+                "bottom": 1252,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1234,
+                "width": 498,
+                "height": 77,
+                "top": 1234,
+                "right": 1830,
+                "bottom": 1311,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1288,
+                "width": 615,
+                "height": 164,
+                "top": 1288,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1347,
+                "width": 615,
+                "height": 105,
+                "top": 1347,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        },
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 2207.5,
+          "duration": 0,
+          "value": 0.0008660701232359541,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1234,
+                "width": 498,
+                "height": 77,
+                "top": 1234,
+                "right": 1830,
+                "bottom": 1311,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1283,
+                "width": 498,
+                "height": 77,
+                "top": 1283,
+                "right": 1830,
+                "bottom": 1360,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1347,
+                "width": 615,
+                "height": 105,
+                "top": 1347,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1396,
+                "width": 615,
+                "height": 56,
+                "top": 1396,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717236499515-9973481898791",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "INP",
+      "value": 48,
+      "rating": "good",
+      "delta": 48,
+      "entries": [
+        {
+          "name": "keyup",
+          "entryType": "event",
+          "startTime": 5299.700000047684,
+          "duration": 48,
+          "processingStart": 5331.799999952316,
+          "processingEnd": 5331.799999952316,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236499515-2600501829383",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    }
+  ],
+  [
+    {
+      "name": "FCP",
+      "value": 512,
+      "rating": "good",
+      "delta": 512,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 512,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717236515436-5554510275526",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "TTFB",
+      "value": 390.7000000476837,
+      "rating": "good",
+      "delta": 390.7000000476837,
+      "entries": [
+        {
+          "name": "http://localhost:3000/women/linen-sleeveless-dress?color=sand",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 727,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 2.200000047683716,
+          "domainLookupStart": 2.200000047683716,
+          "domainLookupEnd": 2.200000047683716,
+          "connectStart": 2.200000047683716,
+          "secureConnectionStart": 0,
+          "connectEnd": 2.200000047683716,
+          "requestStart": 3.799999952316284,
+          "responseStart": 390.7000000476837,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 518.2000000476837,
+          "transferSize": 649782,
+          "encodedBodySize": 649482,
+          "decodedBodySize": 8141281,
+          "responseStatus": 200,
+          "serverTiming": [],
+          "unloadEventStart": 392.09999990463257,
+          "unloadEventEnd": 392.09999990463257,
+          "domInteractive": 644.7999999523163,
+          "domContentLoadedEventStart": 644.7999999523163,
+          "domContentLoadedEventEnd": 644.7999999523163,
+          "domComplete": 726.2999999523163,
+          "loadEventStart": 726.9000000953674,
+          "loadEventEnd": 727,
+          "type": "navigate",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717236515437-9133806861910",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "LCP",
+      "value": 465.2999999523163,
+      "rating": "good",
+      "delta": 465.2999999523163,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 465.2999999523163,
+          "duration": 0,
+          "size": 166866,
+          "renderTime": 0,
+          "loadTime": 465.2999999523163,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/7xvPLGJC1PT8GVLSuXeQZl/de90c8749fb0fcfbb2e6d29dc1efbecd/W-DRS-31-SND_1030_EDITED.jpg?w=1600&q=50&h=2000&fm=webp"
+        }
+      ],
+      "id": "v3-1717236515436-8863285697488",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "FID",
+      "value": 4.099999904632568,
+      "rating": "good",
+      "delta": 4.099999904632568,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 2293.5,
+          "duration": 8,
+          "processingStart": 2297.5999999046326,
+          "processingEnd": 2297.9000000953674,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236515436-6570901537150",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "CLS",
+      "value": 0.009190328225946858,
+      "rating": "good",
+      "delta": 0.009190328225946858,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 740.5,
+          "duration": 0,
+          "value": 0.0011031265044265572,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1175,
+                "width": 498,
+                "height": 77,
+                "top": 1175,
+                "right": 1830,
+                "bottom": 1252,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1223,
+                "width": 498,
+                "height": 77,
+                "top": 1223,
+                "right": 1830,
+                "bottom": 1300,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1288,
+                "width": 615,
+                "height": 164,
+                "top": 1288,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1336,
+                "width": 615,
+                "height": 116,
+                "top": 1336,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        },
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 749.5,
+          "duration": 0,
+          "value": 0.005945675472386648,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1518,
+                "y": 1147,
+                "width": 125,
+                "height": 48,
+                "top": 1147,
+                "right": 1643,
+                "bottom": 1195,
+                "left": 1518
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1147,
+                "width": 615,
+                "height": 72,
+                "top": 1147,
+                "right": 1888,
+                "bottom": 1219,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1223,
+                "width": 498,
+                "height": 77,
+                "top": 1223,
+                "right": 1830,
+                "bottom": 1300,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1247,
+                "width": 498,
+                "height": 77,
+                "top": 1247,
+                "right": 1830,
+                "bottom": 1324,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1336,
+                "width": 615,
+                "height": 116,
+                "top": 1336,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1360,
+                "width": 615,
+                "height": 92,
+                "top": 1360,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        },
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 981.5,
+          "duration": 0,
+          "value": 0.002141526249133652,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1036,
+                "width": 615,
+                "height": 90,
+                "top": 1036,
+                "right": 1888,
+                "bottom": 1126,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1095,
+                "width": 615,
+                "height": 90,
+                "top": 1095,
+                "right": 1888,
+                "bottom": 1185,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1126,
+                "width": 615,
+                "height": 104,
+                "top": 1126,
+                "right": 1888,
+                "bottom": 1230,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1185,
+                "width": 615,
+                "height": 105,
+                "top": 1185,
+                "right": 1888,
+                "bottom": 1290,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1247,
+                "width": 498,
+                "height": 77,
+                "top": 1247,
+                "right": 1830,
+                "bottom": 1324,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1306,
+                "width": 498,
+                "height": 77,
+                "top": 1306,
+                "right": 1830,
+                "bottom": 1383,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1360,
+                "width": 615,
+                "height": 92,
+                "top": 1360,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1419,
+                "width": 615,
+                "height": 33,
+                "top": 1419,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717236515436-3086202209227",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "INP",
+      "value": 56,
+      "rating": "good",
+      "delta": 56,
+      "entries": [
+        {
+          "name": "keyup",
+          "entryType": "event",
+          "startTime": 3841.0999999046326,
+          "duration": 56,
+          "processingStart": 3891.5,
+          "processingEnd": 3891.5,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236515436-2001013671431",
+      "navigationType": "navigate",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    }
+  ],
+  [
+    {
+      "name": "FCP",
+      "value": 479.7000000476837,
+      "rating": "good",
+      "delta": 479.7000000476837,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 479.7000000476837,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717236531075-1833588022771",
+      "navigationType": "reload",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "TTFB",
+      "value": 405.39999985694885,
+      "rating": "good",
+      "delta": 405.39999985694885,
+      "entries": [
+        {
+          "name": "http://localhost:3000/women/linen-sleeveless-dress?color=sand",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 676.2999999523163,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 7.599999904632568,
+          "domainLookupStart": 7.599999904632568,
+          "domainLookupEnd": 7.599999904632568,
+          "connectStart": 7.599999904632568,
+          "secureConnectionStart": 0,
+          "connectEnd": 7.599999904632568,
+          "requestStart": 8.399999856948853,
+          "responseStart": 405.39999985694885,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 498.7000000476837,
+          "transferSize": 649783,
+          "encodedBodySize": 649483,
+          "decodedBodySize": 8141281,
+          "responseStatus": 200,
+          "serverTiming": [],
+          "unloadEventStart": 406.7999999523163,
+          "unloadEventEnd": 406.7999999523163,
+          "domInteractive": 584.2000000476837,
+          "domContentLoadedEventStart": 584.2000000476837,
+          "domContentLoadedEventEnd": 584.2000000476837,
+          "domComplete": 676,
+          "loadEventStart": 676.2999999523163,
+          "loadEventEnd": 676.2999999523163,
+          "type": "reload",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717236531075-3064397674282",
+      "navigationType": "reload",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "LCP",
+      "value": 435.09999990463257,
+      "rating": "good",
+      "delta": 435.09999990463257,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 435.09999990463257,
+          "duration": 0,
+          "size": 166866,
+          "renderTime": 0,
+          "loadTime": 435.09999990463257,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/7xvPLGJC1PT8GVLSuXeQZl/de90c8749fb0fcfbb2e6d29dc1efbecd/W-DRS-31-SND_1030_EDITED.jpg?w=1600&q=50&h=2000&fm=webp"
+        }
+      ],
+      "id": "v3-1717236531075-5341328783378",
+      "navigationType": "reload",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "FID",
+      "value": 4.3999998569488525,
+      "rating": "good",
+      "delta": 4.3999998569488525,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 1443.5,
+          "duration": 8,
+          "processingStart": 1447.8999998569489,
+          "processingEnd": 1448.0999999046326,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236531075-8658908812193",
+      "navigationType": "reload",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "CLS",
+      "value": 0.009190328225946858,
+      "rating": "good",
+      "delta": 0.009190328225946858,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 690.8999998569489,
+          "duration": 0,
+          "value": 0.0011031265044265572,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1175,
+                "width": 498,
+                "height": 77,
+                "top": 1175,
+                "right": 1830,
+                "bottom": 1252,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1223,
+                "width": 498,
+                "height": 77,
+                "top": 1223,
+                "right": 1830,
+                "bottom": 1300,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1288,
+                "width": 615,
+                "height": 164,
+                "top": 1288,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1336,
+                "width": 615,
+                "height": 116,
+                "top": 1336,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        },
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 698.8999998569489,
+          "duration": 0,
+          "value": 0.005945675472386648,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1518,
+                "y": 1147,
+                "width": 125,
+                "height": 48,
+                "top": 1147,
+                "right": 1643,
+                "bottom": 1195,
+                "left": 1518
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1147,
+                "width": 615,
+                "height": 72,
+                "top": 1147,
+                "right": 1888,
+                "bottom": 1219,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1223,
+                "width": 498,
+                "height": 77,
+                "top": 1223,
+                "right": 1830,
+                "bottom": 1300,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1247,
+                "width": 498,
+                "height": 77,
+                "top": 1247,
+                "right": 1830,
+                "bottom": 1324,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1336,
+                "width": 615,
+                "height": 116,
+                "top": 1336,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1360,
+                "width": 615,
+                "height": 92,
+                "top": 1360,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        },
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 915.3999998569489,
+          "duration": 0,
+          "value": 0.002141526249133652,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1036,
+                "width": 615,
+                "height": 90,
+                "top": 1036,
+                "right": 1888,
+                "bottom": 1126,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1095,
+                "width": 615,
+                "height": 90,
+                "top": 1095,
+                "right": 1888,
+                "bottom": 1185,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1126,
+                "width": 615,
+                "height": 104,
+                "top": 1126,
+                "right": 1888,
+                "bottom": 1230,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1185,
+                "width": 615,
+                "height": 105,
+                "top": 1185,
+                "right": 1888,
+                "bottom": 1290,
+                "left": 1273
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1332,
+                "y": 1247,
+                "width": 498,
+                "height": 77,
+                "top": 1247,
+                "right": 1830,
+                "bottom": 1324,
+                "left": 1332
+              },
+              "currentRect": {
+                "x": 1332,
+                "y": 1306,
+                "width": 498,
+                "height": 77,
+                "top": 1306,
+                "right": 1830,
+                "bottom": 1383,
+                "left": 1332
+              }
+            },
+            {
+              "previousRect": {
+                "x": 1273,
+                "y": 1360,
+                "width": 615,
+                "height": 92,
+                "top": 1360,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              },
+              "currentRect": {
+                "x": 1273,
+                "y": 1419,
+                "width": 615,
+                "height": 33,
+                "top": 1419,
+                "right": 1888,
+                "bottom": 1452,
+                "left": 1273
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717236531075-1786025203659",
+      "navigationType": "reload",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    },
+    {
+      "name": "INP",
+      "value": 192,
+      "rating": "good",
+      "delta": 192,
+      "entries": [
+        {
+          "name": "keydown",
+          "entryType": "event",
+          "startTime": 3437.899999856949,
+          "duration": 112,
+          "processingStart": 3524.2999999523163,
+          "processingEnd": 3524.2999999523163,
+          "cancelable": true
+        },
+        {
+          "name": "keyup",
+          "entryType": "event",
+          "startTime": 3573.5999999046326,
+          "duration": 192,
+          "processingStart": 3768.7999999523163,
+          "processingEnd": 3769,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236531075-2863772193345",
+      "navigationType": "reload",
+      "buildId": "1717236440800",
+      "isCached": "true",
+      "href": "http://localhost:3000/women/linen-sleeveless-dress?color=sand"
+    }
+  ]
+]

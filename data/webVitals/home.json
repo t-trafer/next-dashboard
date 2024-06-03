@@ -1,0 +1,704 @@
+[
+  [
+    {
+      "name": "FCP",
+      "value": 1024.7000000476837,
+      "rating": "good",
+      "delta": 1024.7000000476837,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 1024.7000000476837,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717235143288-2887738035847",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "TTFB",
+      "value": 686.8999998569489,
+      "rating": "good",
+      "delta": 686.8999998569489,
+      "entries": [
+        {
+          "name": "http://localhost:3000/",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 1263.7999999523163,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 1.2999999523162842,
+          "domainLookupStart": 1.2999999523162842,
+          "domainLookupEnd": 1.2999999523162842,
+          "connectStart": 1.2999999523162842,
+          "secureConnectionStart": 0,
+          "connectEnd": 1.2999999523162842,
+          "requestStart": 2.299999952316284,
+          "responseStart": 686.8999998569489,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 789,
+          "transferSize": 763367,
+          "encodedBodySize": 763067,
+          "decodedBodySize": 8870197,
+          "responseStatus": 500,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 897.7999999523163,
+          "domContentLoadedEventStart": 897.7999999523163,
+          "domContentLoadedEventEnd": 897.7999999523163,
+          "domComplete": 1251.7999999523163,
+          "loadEventStart": 1263.5,
+          "loadEventEnd": 1263.7999999523163,
+          "type": "navigate",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717235143288-9239023722831",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "CLS",
+      "value": 0.8429580268084791,
+      "rating": "poor",
+      "delta": 0.8429580268084791,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 1047.5,
+          "duration": 0,
+          "value": 0.8429580268084791,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 86,
+                "y": 1371,
+                "width": 1156,
+                "height": 24,
+                "top": 1371,
+                "right": 1242,
+                "bottom": 1395,
+                "left": 86
+              },
+              "currentRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1150,
+                "height": 24,
+                "top": 1400,
+                "right": 1236,
+                "bottom": 1424,
+                "left": 86
+              }
+            },
+            {
+              "previousRect": {
+                "x": 964,
+                "y": 151,
+                "width": 153,
+                "height": 89,
+                "top": 151,
+                "right": 1117,
+                "bottom": 240,
+                "left": 964
+              },
+              "currentRect": {
+                "x": 1021,
+                "y": 151,
+                "width": 173,
+                "height": 89,
+                "top": 151,
+                "right": 1194,
+                "bottom": 240,
+                "left": 1021
+              }
+            },
+            {
+              "previousRect": {
+                "x": 86,
+                "y": 1369,
+                "width": 1156,
+                "height": 24,
+                "top": 1369,
+                "right": 1242,
+                "bottom": 1393,
+                "left": 86
+              },
+              "currentRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1150,
+                "height": 24,
+                "top": 1400,
+                "right": 1236,
+                "bottom": 1424,
+                "left": 86
+              }
+            },
+            {
+              "previousRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1156,
+                "height": 24,
+                "top": 1400,
+                "right": 1242,
+                "bottom": 1424,
+                "left": 86
+              },
+              "currentRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1150,
+                "height": 24,
+                "top": 1400,
+                "right": 1236,
+                "bottom": 1424,
+                "left": 86
+              }
+            },
+            {
+              "previousRect": {
+                "x": 0,
+                "y": 241,
+                "width": 2170,
+                "height": 1209,
+                "top": 241,
+                "right": 2170,
+                "bottom": 1450,
+                "left": 0
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717235143288-7467520654407",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "LCP",
+      "value": 1154.7999999523163,
+      "rating": "good",
+      "delta": 1154.7999999523163,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 1154.7999999523163,
+          "duration": 0,
+          "size": 476035,
+          "renderTime": 0,
+          "loadTime": 1154.7999999523163,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/45hd5GyXUGdSAEiG0ybKvY/c953ab4229faf2a43a478c51e41b6aff/Frame_28779.jpg?w=3200&q=95&h=1294&fm=webp"
+        }
+      ],
+      "id": "v3-1717235143288-3026916952228",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "INP",
+      "value": 88,
+      "rating": "good",
+      "delta": 88,
+      "entries": [
+        {
+          "name": "keyup",
+          "entryType": "event",
+          "startTime": 9478.599999904633,
+          "duration": 88,
+          "processingStart": 9554.799999952316,
+          "processingEnd": 9554.899999856949,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717235143288-4814075859222",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    }
+  ],
+  [
+    {
+      "name": "FCP",
+      "value": 814.2999999523163,
+      "rating": "good",
+      "delta": 814.2999999523163,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 814.2999999523163,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717235171883-7446313689456",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "TTFB",
+      "value": 528.3999998569489,
+      "rating": "good",
+      "delta": 528.3999998569489,
+      "entries": [
+        {
+          "name": "http://localhost:3000/",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 1043.5999999046326,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 2.299999952316284,
+          "domainLookupStart": 2.299999952316284,
+          "domainLookupEnd": 2.299999952316284,
+          "connectStart": 2.299999952316284,
+          "secureConnectionStart": 0,
+          "connectEnd": 2.299999952316284,
+          "requestStart": 3.3999998569488525,
+          "responseStart": 528.3999998569489,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 641.8999998569489,
+          "transferSize": 763498,
+          "encodedBodySize": 763198,
+          "decodedBodySize": 8870154,
+          "responseStatus": 500,
+          "serverTiming": [],
+          "unloadEventStart": 531.5999999046326,
+          "unloadEventEnd": 531.5999999046326,
+          "domInteractive": 794.5,
+          "domContentLoadedEventStart": 794.5,
+          "domContentLoadedEventEnd": 794.5999999046326,
+          "domComplete": 1032.8999998569489,
+          "loadEventStart": 1043.5,
+          "loadEventEnd": 1043.5999999046326,
+          "type": "navigate",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717235171883-7087901523286",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "CLS",
+      "value": 0.943677995391705,
+      "rating": "poor",
+      "delta": 0.943677995391705,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 835.7000000476837,
+          "duration": 0,
+          "value": 0.943677995391705,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 16,
+                "y": 16,
+                "width": 2138,
+                "height": 1436,
+                "top": 16,
+                "right": 2154,
+                "bottom": 1452,
+                "left": 16
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 2170,
+                "height": 1452,
+                "top": 0,
+                "right": 2170,
+                "bottom": 1452,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717235171883-9724750339464",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "LCP",
+      "value": 928.7999999523163,
+      "rating": "good",
+      "delta": 928.7999999523163,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 928.7999999523163,
+          "duration": 0,
+          "size": 476035,
+          "renderTime": 0,
+          "loadTime": 928.7999999523163,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/45hd5GyXUGdSAEiG0ybKvY/c953ab4229faf2a43a478c51e41b6aff/Frame_28779.jpg?w=3200&q=95&h=1294&fm=webp"
+        }
+      ],
+      "id": "v3-1717235171883-1251613162210",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "INP",
+      "value": 8,
+      "rating": "good",
+      "delta": 8,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 4793.700000047684,
+          "duration": 8,
+          "processingStart": 4795,
+          "processingEnd": 4795,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717235171883-4645586511693",
+      "navigationType": "navigate",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    }
+  ],
+  [
+    {
+      "name": "FCP",
+      "value": 757.7000000476837,
+      "rating": "good",
+      "delta": 757.7000000476837,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 757.7000000476837,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717235189136-5651738593485",
+      "navigationType": "reload",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "TTFB",
+      "value": 497.2000000476837,
+      "rating": "good",
+      "delta": 497.2000000476837,
+      "entries": [
+        {
+          "name": "http://localhost:3000/",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 1007.2999999523163,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 6.799999952316284,
+          "domainLookupStart": 6.799999952316284,
+          "domainLookupEnd": 6.799999952316284,
+          "connectStart": 6.799999952316284,
+          "secureConnectionStart": 0,
+          "connectEnd": 6.799999952316284,
+          "requestStart": 7.6000001430511475,
+          "responseStart": 497.2000000476837,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 617.5,
+          "transferSize": 763498,
+          "encodedBodySize": 763198,
+          "decodedBodySize": 8870154,
+          "responseStatus": 500,
+          "serverTiming": [],
+          "unloadEventStart": 499.40000009536743,
+          "unloadEventEnd": 499.40000009536743,
+          "domInteractive": 706.7000000476837,
+          "domContentLoadedEventStart": 706.7000000476837,
+          "domContentLoadedEventEnd": 706.7999999523163,
+          "domComplete": 995.2999999523163,
+          "loadEventStart": 1007.1000001430511,
+          "loadEventEnd": 1007.2999999523163,
+          "type": "reload",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717235189136-4421973326204",
+      "navigationType": "reload",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "LCP",
+      "value": 875.2999999523163,
+      "rating": "good",
+      "delta": 875.2999999523163,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 875.2999999523163,
+          "duration": 0,
+          "size": 476035,
+          "renderTime": 0,
+          "loadTime": 875.2999999523163,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/45hd5GyXUGdSAEiG0ybKvY/c953ab4229faf2a43a478c51e41b6aff/Frame_28779.jpg?w=3200&q=95&h=1294&fm=webp"
+        }
+      ],
+      "id": "v3-1717235189136-7181204608380",
+      "navigationType": "reload",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "FID",
+      "value": 2.8000001907348633,
+      "rating": "good",
+      "delta": 2.8000001907348633,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 2141.2999999523163,
+          "duration": 0,
+          "processingStart": 2144.100000143051,
+          "processingEnd": 2144.2000000476837,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717235189136-2952862300150",
+      "navigationType": "reload",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "CLS",
+      "value": 0.8429580268084791,
+      "rating": "poor",
+      "delta": 0.8429580268084791,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 773.7999999523163,
+          "duration": 0,
+          "value": 0.8429580268084791,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 86,
+                "y": 1371,
+                "width": 1156,
+                "height": 24,
+                "top": 1371,
+                "right": 1242,
+                "bottom": 1395,
+                "left": 86
+              },
+              "currentRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1150,
+                "height": 24,
+                "top": 1400,
+                "right": 1236,
+                "bottom": 1424,
+                "left": 86
+              }
+            },
+            {
+              "previousRect": {
+                "x": 964,
+                "y": 151,
+                "width": 153,
+                "height": 89,
+                "top": 151,
+                "right": 1117,
+                "bottom": 240,
+                "left": 964
+              },
+              "currentRect": {
+                "x": 1021,
+                "y": 151,
+                "width": 173,
+                "height": 89,
+                "top": 151,
+                "right": 1194,
+                "bottom": 240,
+                "left": 1021
+              }
+            },
+            {
+              "previousRect": {
+                "x": 86,
+                "y": 1369,
+                "width": 1156,
+                "height": 24,
+                "top": 1369,
+                "right": 1242,
+                "bottom": 1393,
+                "left": 86
+              },
+              "currentRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1150,
+                "height": 24,
+                "top": 1400,
+                "right": 1236,
+                "bottom": 1424,
+                "left": 86
+              }
+            },
+            {
+              "previousRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1156,
+                "height": 24,
+                "top": 1400,
+                "right": 1242,
+                "bottom": 1424,
+                "left": 86
+              },
+              "currentRect": {
+                "x": 86,
+                "y": 1400,
+                "width": 1150,
+                "height": 24,
+                "top": 1400,
+                "right": 1236,
+                "bottom": 1424,
+                "left": 86
+              }
+            },
+            {
+              "previousRect": {
+                "x": 0,
+                "y": 241,
+                "width": 2170,
+                "height": 1209,
+                "top": 241,
+                "right": 2170,
+                "bottom": 1450,
+                "left": 0
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717235189136-8780876959661",
+      "navigationType": "reload",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    },
+    {
+      "name": "INP",
+      "value": 64,
+      "rating": "good",
+      "delta": 64,
+      "entries": [
+        {
+          "name": "keyup",
+          "entryType": "event",
+          "startTime": 4252.400000095367,
+          "duration": 64,
+          "processingStart": 4297.700000047684,
+          "processingEnd": 4297.700000047684,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717235189136-7369938683173",
+      "navigationType": "reload",
+      "buildId": "1717235076946",
+      "isCached": "true",
+      "href": "http://localhost:3000/"
+    }
+  ]
+]

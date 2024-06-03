@@ -1,0 +1,680 @@
+[
+  [
+    {
+      "name": "FCP",
+      "value": 613.1999998092651,
+      "rating": "good",
+      "delta": 613.1999998092651,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 613.1999998092651,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717236671348-1345218875273",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "TTFB",
+      "value": 486.39999985694885,
+      "rating": "good",
+      "delta": 486.39999985694885,
+      "entries": [
+        {
+          "name": "http://localhost:3000/search?q=linen",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 847.0999999046326,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 3.5999999046325684,
+          "domainLookupStart": 3.5999999046325684,
+          "domainLookupEnd": 3.5999999046325684,
+          "connectStart": 3.5999999046325684,
+          "secureConnectionStart": 0,
+          "connectEnd": 3.5999999046325684,
+          "requestStart": 4.799999952316284,
+          "responseStart": 486.39999985694885,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 700,
+          "transferSize": 608439,
+          "encodedBodySize": 608139,
+          "decodedBodySize": 7799065,
+          "responseStatus": 200,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 827.1999998092651,
+          "domContentLoadedEventStart": 827.1999998092651,
+          "domContentLoadedEventEnd": 827.2999999523163,
+          "domComplete": 846.7999999523163,
+          "loadEventStart": 847,
+          "loadEventEnd": 847.0999999046326,
+          "type": "navigate",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717236671348-8127847260502",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "LCP",
+      "value": 7553.899999856949,
+      "rating": "poor",
+      "delta": 7553.899999856949,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 7553.899999856949,
+          "duration": 0,
+          "size": 62151,
+          "renderTime": 0,
+          "loadTime": 7553.899999856949,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/1hRql5AVS50h9TPBsrtpwF/83b1b12fd4a932c256bda58e2be4c272/200622_LB_kylee_01_0623_4383.jpg?w=658&q=50&h=823&fm=webp"
+        }
+      ],
+      "id": "v3-1717236671348-7423477554810",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "FID",
+      "value": 1.5,
+      "rating": "good",
+      "delta": 1.5,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 8747.699999809265,
+          "duration": 0,
+          "processingStart": 8749.199999809265,
+          "processingEnd": 8749.399999856949,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236671348-6484453057732",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "CLS",
+      "value": 0.7246880197026825,
+      "rating": "poor",
+      "delta": 0.7246880197026825,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 7544.399999856949,
+          "duration": 0,
+          "value": 0.7246880197026825,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1055,
+                "y": 346,
+                "width": 60,
+                "height": 482,
+                "top": 346,
+                "right": 1115,
+                "bottom": 828,
+                "left": 1055
+              },
+              "currentRect": {
+                "x": 121,
+                "y": 346,
+                "width": 1928,
+                "height": 1106,
+                "top": 346,
+                "right": 2049,
+                "bottom": 1452,
+                "left": 121
+              }
+            },
+            {
+              "previousRect": {
+                "x": 0,
+                "y": 828,
+                "width": 2170,
+                "height": 624,
+                "top": 828,
+                "right": 2170,
+                "bottom": 1452,
+                "left": 0
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717236671348-2668935986407",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "INP",
+      "value": 40,
+      "rating": "good",
+      "delta": 40,
+      "entries": [
+        {
+          "name": "pointerup",
+          "entryType": "event",
+          "startTime": 22516.89999985695,
+          "duration": 40,
+          "processingStart": 22518.89999985695,
+          "processingEnd": 22519.099999904633,
+          "cancelable": true
+        },
+        {
+          "name": "click",
+          "entryType": "event",
+          "startTime": 22516.89999985695,
+          "duration": 40,
+          "processingStart": 22519.199999809265,
+          "processingEnd": 22547.299999952316,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236671348-9412487621402",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    }
+  ],
+  [
+    {
+      "name": "FCP",
+      "value": 372.39999985694885,
+      "rating": "good",
+      "delta": 372.39999985694885,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 372.39999985694885,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717236696300-9228445957459",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "TTFB",
+      "value": 330.5,
+      "rating": "good",
+      "delta": 330.5,
+      "entries": [
+        {
+          "name": "http://localhost:3000/search?q=linen",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 536.6999998092651,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 2,
+          "domainLookupStart": 2,
+          "domainLookupEnd": 2,
+          "connectStart": 2,
+          "secureConnectionStart": 0,
+          "connectEnd": 2,
+          "requestStart": 3.799999952316284,
+          "responseStart": 330.5,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 409.7999999523163,
+          "transferSize": 608439,
+          "encodedBodySize": 608139,
+          "decodedBodySize": 7799065,
+          "responseStatus": 200,
+          "serverTiming": [],
+          "unloadEventStart": 334.09999990463257,
+          "unloadEventEnd": 334.09999990463257,
+          "domInteractive": 497.19999980926514,
+          "domContentLoadedEventStart": 497.19999980926514,
+          "domContentLoadedEventEnd": 497.2999999523163,
+          "domComplete": 536.2999999523163,
+          "loadEventStart": 536.5999999046326,
+          "loadEventEnd": 536.6999998092651,
+          "type": "navigate",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717236696301-8659326528318",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "LCP",
+      "value": 1240,
+      "rating": "good",
+      "delta": 1240,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 1240,
+          "duration": 0,
+          "size": 31161,
+          "renderTime": 0,
+          "loadTime": 1240,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/39CPvOVv1Az1blVG6ptIpc/517895fed34d0754d90ca3f3ee14408f/Unicorn_Floral_5.jpg?w=662&q=50&h=828&fm=webp"
+        }
+      ],
+      "id": "v3-1717236696300-6433139706162",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "FID",
+      "value": 3.5,
+      "rating": "good",
+      "delta": 3.5,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 4776.799999952316,
+          "duration": 24,
+          "processingStart": 4780.299999952316,
+          "processingEnd": 4780.5,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236696300-6101859725749",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "CLS",
+      "value": 0.7246880197026825,
+      "rating": "poor",
+      "delta": 0.7246880197026825,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 6776.099999904633,
+          "duration": 0,
+          "value": 0.7246880197026825,
+          "hadRecentInput": false,
+          "lastInputTime": 4893.099999904633,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 1055,
+                "y": 346,
+                "width": 60,
+                "height": 482,
+                "top": 346,
+                "right": 1115,
+                "bottom": 828,
+                "left": 1055
+              },
+              "currentRect": {
+                "x": 121,
+                "y": 346,
+                "width": 1928,
+                "height": 1106,
+                "top": 346,
+                "right": 2049,
+                "bottom": 1452,
+                "left": 121
+              }
+            },
+            {
+              "previousRect": {
+                "x": 0,
+                "y": 828,
+                "width": 2170,
+                "height": 624,
+                "top": 828,
+                "right": 2170,
+                "bottom": 1452,
+                "left": 0
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717236696300-2868621365949",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "INP",
+      "value": 24,
+      "rating": "good",
+      "delta": 24,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 4776.799999952316,
+          "duration": 24,
+          "processingStart": 4780.299999952316,
+          "processingEnd": 4780.5,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236696300-9541320773138",
+      "navigationType": "navigate",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    }
+  ],
+  [
+    {
+      "name": "FCP",
+      "value": 402.2000000476837,
+      "rating": "good",
+      "delta": 402.2000000476837,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 402.2000000476837,
+          "duration": 0
+        }
+      ],
+      "id": "v3-1717236721609-4490227177329",
+      "navigationType": "reload",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "TTFB",
+      "value": 372.09999990463257,
+      "rating": "good",
+      "delta": 372.09999990463257,
+      "entries": [
+        {
+          "name": "http://localhost:3000/search?q=linen",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 581,
+          "initiatorType": "navigation",
+          "deliveryType": "",
+          "nextHopProtocol": "http/1.1",
+          "renderBlockingStatus": "non-blocking",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 5.799999952316284,
+          "domainLookupStart": 5.799999952316284,
+          "domainLookupEnd": 5.799999952316284,
+          "connectStart": 5.799999952316284,
+          "secureConnectionStart": 0,
+          "connectEnd": 5.799999952316284,
+          "requestStart": 6.700000047683716,
+          "responseStart": 372.09999990463257,
+          "firstInterimResponseStart": 0,
+          "responseEnd": 460.2999999523163,
+          "transferSize": 608439,
+          "encodedBodySize": 608139,
+          "decodedBodySize": 7799065,
+          "responseStatus": 200,
+          "serverTiming": [],
+          "unloadEventStart": 373.59999990463257,
+          "unloadEventEnd": 373.59999990463257,
+          "domInteractive": 545,
+          "domContentLoadedEventStart": 545.0999999046326,
+          "domContentLoadedEventEnd": 545.0999999046326,
+          "domComplete": 580.5999999046326,
+          "loadEventStart": 581,
+          "loadEventEnd": 581,
+          "type": "reload",
+          "redirectCount": 0,
+          "activationStart": 0,
+          "criticalCHRestart": 0,
+          "notRestoredReasons": null
+        }
+      ],
+      "id": "v3-1717236721609-4974776666276",
+      "navigationType": "reload",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "LCP",
+      "value": 1348.7000000476837,
+      "rating": "good",
+      "delta": 1348.7000000476837,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "largest-contentful-paint",
+          "startTime": 1348.7000000476837,
+          "duration": 0,
+          "size": 31161,
+          "renderTime": 0,
+          "loadTime": 1348.7000000476837,
+          "firstAnimatedFrameTime": 0,
+          "id": "",
+          "url": "http://images.quince.com/4jdjI7Iga4FQ5LorKFF5e/0fc2e7fa638858677d75ae41adbf5ff2/W-JKT-80-BLK_0117.jpg?w=662&q=50&h=828&fm=webp"
+        }
+      ],
+      "id": "v3-1717236721609-7097707367990",
+      "navigationType": "reload",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "FID",
+      "value": 2.9000000953674316,
+      "rating": "good",
+      "delta": 2.9000000953674316,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 3232.7999999523163,
+          "duration": 8,
+          "processingStart": 3235.7000000476837,
+          "processingEnd": 3235.9000000953674,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236721609-8915958216668",
+      "navigationType": "reload",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "CLS",
+      "value": 0.2877078513190134,
+      "rating": "poor",
+      "delta": 0.2877078513190134,
+      "entries": [
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 887.9000000953674,
+          "duration": 0,
+          "value": 0.040151723429307735,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 0,
+                "y": 241,
+                "width": 2170,
+                "height": 482,
+                "top": 241,
+                "right": 2170,
+                "bottom": 723,
+                "left": 0
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 346,
+                "width": 2170,
+                "height": 482,
+                "top": 346,
+                "right": 2170,
+                "bottom": 828,
+                "left": 0
+              }
+            },
+            {
+              "previousRect": {
+                "x": 0,
+                "y": 723,
+                "width": 2170,
+                "height": 729,
+                "top": 723,
+                "right": 2170,
+                "bottom": 1452,
+                "left": 0
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 828,
+                "width": 2170,
+                "height": 624,
+                "top": 828,
+                "right": 2170,
+                "bottom": 1452,
+                "left": 0
+              }
+            }
+          ]
+        },
+        {
+          "name": "",
+          "entryType": "layout-shift",
+          "startTime": 1304.5,
+          "duration": 0,
+          "value": 0.24755612788970563,
+          "hadRecentInput": false,
+          "lastInputTime": 0,
+          "sources": [
+            {
+              "previousRect": {
+                "x": 0,
+                "y": 828,
+                "width": 2170,
+                "height": 624,
+                "top": 828,
+                "right": 2170,
+                "bottom": 1452,
+                "left": 0
+              },
+              "currentRect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "id": "v3-1717236721609-5470804129722",
+      "navigationType": "reload",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    },
+    {
+      "name": "INP",
+      "value": 8,
+      "rating": "good",
+      "delta": 8,
+      "entries": [
+        {
+          "name": "pointerdown",
+          "entryType": "first-input",
+          "startTime": 3232.7999999523163,
+          "duration": 8,
+          "processingStart": 3235.7000000476837,
+          "processingEnd": 3235.9000000953674,
+          "cancelable": true
+        }
+      ],
+      "id": "v3-1717236721609-3715876107036",
+      "navigationType": "reload",
+      "buildId": "1717236611157",
+      "isCached": "true",
+      "href": "http://localhost:3000/search?q=linen"
+    }
+  ]
+]
