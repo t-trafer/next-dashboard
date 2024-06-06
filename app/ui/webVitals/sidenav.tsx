@@ -1,7 +1,7 @@
 import NavLinks from './nav-links';
 
 async function getWebVitalSources() {
-  const res = await fetch('http://localhost:3000/api/fs/web-vital-source');
+  const res = await fetch('http://localhost:3001/api/fs/web-vital-source');
   return res.json();
 }
 
